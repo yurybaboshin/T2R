@@ -15,7 +15,7 @@ public class Main extends ApplicationWindow {
 	private Action action_1;
 	private Action action_2;
 	/**
-	 * Create the application window. I've already changed it.
+	 * Create the application window. I've already changed it. Test #2.
 	 */
 	public Main() {
 		super(null);

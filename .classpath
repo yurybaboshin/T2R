@@ -23,6 +23,5 @@
 	<classpathentry kind="lib" path="D:/eclipse-java-oxygen-3a-win32-x86_64/eclipse/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar" sourcepath="D:/eclipse-java-oxygen-3a-win32-x86_64/eclipse/plugins/com.ibm.icu.source_58.2.0.v20170418-1837.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse-java-oxygen-3a-win32-x86_64/eclipse/plugins/org.eclipse.ui.forms_3.7.101.v20170815-1446.jar" sourcepath="D:/eclipse-java-oxygen-3a-win32-x86_64/eclipse/plugins/org.eclipse.ui.forms.source_3.7.101.v20170815-1446.jar"/>
 	<classpathentry kind="lib" path="swing2swt.jar"/>
-	<classpathentry kind="lib" path="/org.eclipse.jface.databinding/org.eclipse.jface.databinding_1.8.100.v20170503-1507.jar" sourcepath="/org.eclipse.jface.databinding/org.eclipse.jface.databinding.source_1.8.100.v20170503-1507.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
